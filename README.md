@@ -41,7 +41,7 @@ An enterprise-grade Employee Management System featuring comprehensive modules f
 ## 🌍 Deployment URLs
 - **Frontend (Live)**: `https://frontend-pi-olive-29.vercel.app`
 - **Backend API**: `https://employee-management-systemyyyyashika.onrender.com/api/health`
-- **Database**: `Neon PostgreSQL`
+- **Database**: `ep-icy-shadow-ahbddvfy-pooler.c-3.us-east-1.aws.neon.tech/neondb` (Neon PostgreSQL)
 
 ## 👨‍💻 Developer
 Developed by **[Your Developer Name Here]**
