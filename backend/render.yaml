@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: ems-backend
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: DATABASE_URL
+        value: "postgres://user:pass@host/db"
+      - key: JWT_SECRET
+        value: "super_secret_production_key"
+      - key: FRONTEND_URL
+        value: "https://ems-frontend.vercel.app"
+    healthCheckPath: /api/health
