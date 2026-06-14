@@ -10,7 +10,8 @@ const Employees = () => {
     useEffect(() => {
         const fetchEmployees = async () => {
             try {
-                const res = await fetch('/api/hr/employees', {
+                const API_URL = import.meta.env.VITE_API_URL || '';
+                const res = await fetch(`${API_URL}/api/hr/employees`, {
                     headers: { 'Authorization': `Bearer ${token}` }
                 });
                 const data = await res.json();
