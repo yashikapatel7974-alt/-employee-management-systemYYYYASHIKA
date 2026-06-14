@@ -39,9 +39,9 @@ An enterprise-grade Employee Management System featuring comprehensive modules f
    ```
 
 ## 🌍 Deployment URLs
-- **Frontend (Live)**: `https://ems-frontend.vercel.app` *(Placeholder)*
-- **Backend API**: `https://ems-backend.onrender.com/api/health` *(Placeholder)*
-- **Database**: `Neon PostgreSQL` *(Placeholder)*
+- **Frontend (Live)**: `https://frontend-pi-olive-29.vercel.app`
+- **Backend API**: `https://employee-management-systemyyyyashika.onrender.com/api/health`
+- **Database**: `Neon PostgreSQL`
 
 ## 👨‍💻 Developer
 Developed by **[Your Developer Name Here]**

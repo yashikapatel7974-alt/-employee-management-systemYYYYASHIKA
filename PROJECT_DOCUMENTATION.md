@@ -49,8 +49,8 @@ The system is built for modular deployment leveraging modern cloud infrastructur
 - **CI/CD**: A comprehensive GitHub Actions pipeline validates `Node.js` integration tests across multiple matrix versions upon every pull request.
 
 **Deployment URLs:**
-- **Frontend**: `https://ems-frontend.vercel.app` *(Placeholder)*
-- **Backend API**: `https://ems-backend.onrender.com` *(Placeholder)*
+- **Frontend**: `https://frontend-pi-olive-29.vercel.app`
+- **Backend API**: `https://employee-management-systemyyyyashika.onrender.com`
 
 ## 6. Screenshots & Verification
 *(Attach Screenshots Here)*

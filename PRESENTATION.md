@@ -80,5 +80,5 @@ paginate: true
 
 # Slide 10: Thank You
 ### Questions & Answers
-**Live Application**: `https://ems-frontend.vercel.app`
-**GitHub Repository**: `https://github.com/yourusername/employee-management-system`
+**Live Application**: `https://frontend-pi-olive-29.vercel.app`
+**GitHub Repository**: `https://github.com/yashikapatel7974-alt/-employee-management-systemYYYYASHIKA`
